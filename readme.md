@@ -3,7 +3,7 @@
 Os módulo de estudo são mantidos pelos grupos de estudo da rede Natalnet.
 Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 
-1. [Grupo de Robótica Educacional (GRE)](GRE)
+1. [Grupo de Robótica Educacional (GRE)](https://github.com/Natalnet/GRE)
 1. Grupo de Aplicativos e Sistemas (GAS)
 1. Grupo de Integração Maker (GIM)
 
