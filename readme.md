@@ -11,6 +11,14 @@ Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 
 Os atuais módulos de estudo são: 
 
+## Inicial
 1. [Introdução ao GIT](IntroducaoAoGit/)
 1. [Introdução ao HTML](IntroducaoAoHTML/)
 1. [Introdução a Robótica Educacional](IntroducaoARoboticaEducacional/)
+
+
+## Intermediário
+
+
+## Avançado
+
