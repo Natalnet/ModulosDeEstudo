@@ -18,7 +18,14 @@ Os atuais módulos de estudo são:
 
 
 ## Intermediário
+1. ESP 
+1. Impressora 3D
+1. CNC
+1. Introdução ao ROS 
+1. Introdução Redes Neurais
+
 
 
 ## Avançado
-
+1. Processamento de Linguagem Natural 
+1. Introdução a _Deep Learning_
