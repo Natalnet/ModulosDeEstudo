@@ -15,6 +15,11 @@ Os atuais módulos de estudo são:
 1. [Introdução ao GIT](IntroducaoAoGit/)
 1. [Introdução ao HTML](IntroducaoAoHTML/)
 1. [Introdução a Robótica Educacional](IntroducaoARoboticaEducacional/)
+1. [Introdução a Javascript](IntroducaoAJavascript/)
+1. [Introdução a NodeJS](IntroducaoANodeJS/)
+1. [Introdução a React](IntroducaoAReact/)
+1. [Introdução a React Native](IntroducaoAReactNative/)
+
 
 
 ## Intermediário
