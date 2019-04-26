@@ -19,6 +19,7 @@ Os atuais módulos de estudo são:
 1. [Introdução a NodeJS](IntroducaoANodeJS/)
 1. [Introdução a React](IntroducaoAReact/)
 1. [Introdução a React Native](IntroducaoAReactNative/)
+1. Introdução à Python
 
 
 
@@ -28,6 +29,7 @@ Os atuais módulos de estudo são:
 1. CNC
 1. Introdução ao ROS 
 1. Introdução Redes Neurais
+1. MicroPython 
 
 
 
