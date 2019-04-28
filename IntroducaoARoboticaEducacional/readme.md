@@ -57,6 +57,11 @@ realidade possível" in Anais do Workshop de Robótica Educacional (Latin Americ
 Symposium). Fortaleza. ISSN 978-85-7669-261-4, 2012.
 http://www.natalnet.br/wre2012/pdf/106499.pdf
 
+### 2013
+Negreiros, Alvaro ; Costa, Diogo ; Chacon, Renato ; Freitas, Gabriel ; Guerra, Tarciana ; Burlamaqui, Aquiles M. F. . ECO-BOT: Um kit de robótica educacional de baixíssimo custo. In: Workshop of Robotics in Education, 2013, Arequipa. V Workshop of Robotics in Education, 2013.
+http://www.natalnet.br/wre2013/121582.pdf
+
+
 
 ### 2014
 TORRES, VICTOR PAIVA ; AROCA, RAFAEL VIDAL ; Burlamaqui, Aquiles Filgueira . Ambiente de Programação Baseado na Web para Robótica Educacional de Baixo Custo. Holos (Natal. Online), v. 5, p. 261, 2015.
