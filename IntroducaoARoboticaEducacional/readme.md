@@ -74,6 +74,8 @@ BURLAMAQUI, Akynara. Experiências de formação de professores em robótica edu
 ### 2018
 BURLAMAQUI, Akynara; Samuel Azevedo ; ARAUJO, K. G. D. ; ALBINO, A. M. A. . ROBÓTICA EDUCACIONAL INSPIRADA NA PERSPECTIVA FREIRIANA EM ESCOLAS PÚBLICAS DO MUNICÍPIO DE ANGICOS-RN: INVESTIGANDO PALAVRAS E TEMAS PRÓPRIOS DO UNIVERSO VOCABULAR DOS ALUNOS. In: VI Semana de Ciência e Tecnologia UFERSA, 2018, Angicos. VI Semana de Ciência e Tecnologia UFERSA, 2018. v. 6. http://secitec.org/wp-content/uploads/2017/08/ROB%C3%93TICA-EDUCACIONAL-INSPIRADA-DA-PERSPECTIVA-FREIRIANA.pdf
 
+DA CUNHA RIBEIRO, WILLIAM ; V. SANTANA, ORIVALDO ; M.F. BURLAMAQUI, AQUILES ; CARLOS LIMA DA SILVA, CLEILTON . URA 4.0: A Low-Cost Modular Robot for Education. In: 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, João Pessoa. 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018. p. 528
+
 
 ### 2019
 Burlamaqui, Akynara; Burlamaqui, Aquiles. Robótica Educacional a Distância 
