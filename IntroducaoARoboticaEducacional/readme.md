@@ -55,6 +55,8 @@ BURLAMAQUI, Aquiles M. F.; Gonçalves, Luiz M. G.; Leite, L.E.C; MENDES, F. M.; 
 R. V. Aroca, R. P. Barros, A. Burlamaqui, and L. M. G. Gonçalves, "Um robô por aluno: uma
 realidade possível" in Anais do Workshop de Robótica Educacional (Latin American Robotics
 Symposium). Fortaleza. ISSN 978-85-7669-261-4, 2012.
+http://www.natalnet.br/wre2012/pdf/106499.pdf
+
 
 ### 2016
 BURLAMAQUI, Akynara. Experiências de formação de professores em robótica educacional. Revista Tecnologias na Educação, v. 16, p. 1-18. http://tecedu.pro.br/wp-content/uploads/2016/09/Art10-Experi%C3%AAncias-de-forma%C3%A7%C3%A3o-de-professores-em-rob%C3%B3tica-educacional-.pdf
