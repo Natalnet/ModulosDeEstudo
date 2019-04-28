@@ -58,6 +58,10 @@ Symposium). Fortaleza. ISSN 978-85-7669-261-4, 2012.
 http://www.natalnet.br/wre2012/pdf/106499.pdf
 
 
+### 2014
+TORRES, VICTOR PAIVA ; AROCA, RAFAEL VIDAL ; Burlamaqui, Aquiles Filgueira . Ambiente de Programação Baseado na Web para Robótica Educacional de Baixo Custo. Holos (Natal. Online), v. 5, p. 261, 2015.
+http://www2.ifrn.edu.br/ojs/index.php/HOLOS/article/view/1902/pdf_108
+
 ### 2016
 BURLAMAQUI, Akynara. Experiências de formação de professores em robótica educacional. Revista Tecnologias na Educação, v. 16, p. 1-18. http://tecedu.pro.br/wp-content/uploads/2016/09/Art10-Experi%C3%AAncias-de-forma%C3%A7%C3%A3o-de-professores-em-rob%C3%B3tica-educacional-.pdf
 
