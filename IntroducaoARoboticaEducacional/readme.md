@@ -51,6 +51,10 @@ Silva, Akynara R. S. Robótica Educacional: Uma Possibilidade de Inserção Sóc
 ### 2011
 BURLAMAQUI, Aquiles M. F.; Gonçalves, Luiz M. G.; Leite, L.E.C; MENDES, F. M.; Santos, C. R. F.. Participação em banca de Renata Pitta Barros. Evolução, Avaliação e Validação do Software RoboEduc. 2011. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte.
 
+### 2012 
+R. V. Aroca, R. P. Barros, A. Burlamaqui, and L. M. G. Gonçalves, "Um robô por aluno: uma
+realidade possível" in Anais do Workshop de Robótica Educacional (Latin American Robotics
+Symposium). Fortaleza. ISSN 978-85-7669-261-4, 2012.
 
 ### 2016
 BURLAMAQUI, Akynara. Experiências de formação de professores em robótica educacional. Revista Tecnologias na Educação, v. 16, p. 1-18. http://tecedu.pro.br/wp-content/uploads/2016/09/Art10-Experi%C3%AAncias-de-forma%C3%A7%C3%A3o-de-professores-em-rob%C3%B3tica-educacional-.pdf
