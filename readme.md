@@ -30,6 +30,7 @@ Os atuais módulos de estudo são:
 1. Introdução ao ROS 
 1. Introdução Redes Neurais
 1. MicroPython 
+1. [Robot Operating System (ROS) Básico](ROS/Basico)
 
 
 
