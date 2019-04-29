@@ -37,3 +37,4 @@ Os atuais módulos de estudo são:
 ## Avançado
 1. Processamento de Linguagem Natural 
 1. Introdução a _Deep Learning_
+1. [Robot Operating System (ROS) Intermediário](ROS/Intermediario)
