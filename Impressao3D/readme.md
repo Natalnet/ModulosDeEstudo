@@ -1,8 +1,10 @@
-# Introdução CAD
+# Impressão 3D
 
 ## Introdução
 
- 
+## Impressoras 
+
+* Creality 3D Ender-3 - Prusa I3, https://www.gearbest.com/3d-printers-3d-printer-kits/pp_1845898.html
 
 ## Tecnologias 
 
