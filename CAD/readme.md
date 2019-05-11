@@ -20,7 +20,6 @@
 * Fusion 360, https://www.youtube.com/watch?v=TBTBbhNSZXc&list=PLdan5vVMQfYleWpYgSZBgYFZMewfS2fz3 
 * OnShape, https://learn.onshape.com/learning-paths/onshape-fundamentals-cad 
 * OpenSCAD, https://www.youtube.com/watch?v=eq5ObNeiAUw&list=PLqIOgk3ZeY4ViXmrO4BdixvNIhqk-zpDX 
-
 * SolidWorks 2014, https://www.youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL 
 
 Observação: Recomendação para quem está começando a estudar modelagem 3D, ver o tutorial SolidWorks ou a Documentação do OnShape. O OnShape pode ser acessado de forma gratuita via navegador de internet.
