@@ -66,11 +66,14 @@
 
 * Tutorial de uso do Cura, https://www.youtube.com/watch?v=eUNTlb5pEWA 
 
-
-
- 
  
 
 ## Referencias
+
+Gibson, I., Rosen, D.W., Stucker, B. 2010, Additive Manufacturing Technologies - Rapid Prototyping to Direct Digital Manufacturing. 1 ed. New York, Springer. 
+
+Hopkinson, N.; Hague R.; Dickens, P., Rapid Manufacturing: An Industrial Revolution for the Digital Age, John Wiley & Sons Ltd, 2006.
+
+Pradella, M., Folle, L., ANÁLISE DE MERCADO SOBRE TECNOLOGIAS DE PROTOTIPAGEM RÁPIDA POR ADIÇÃO DE MATERIAL, 11º Congresso Brasileiro de Pesquisa e Desenvolvimento em Design, Blucher Design Proceedings, Volume 1, 2014.
 
  
