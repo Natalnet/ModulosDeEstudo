@@ -7,7 +7,7 @@ Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 1. [Grupo de Aplicativos e Sistemas (GAS)](https://github.com/Natalnet/GAS)
 1. [Grupo de Integração Maker (GIM)](https://github.com/Natalnet/GIM)
 1. [Grupo de Aprendizado de Máquina (GAM)](https://github.com/Natalnet/GAM)
-1. ...
+1. [Grupo CAD](https://github.com/Natalnet/GCAD)
 
 Os atuais módulos de estudo são: 
 
@@ -24,8 +24,10 @@ Os atuais módulos de estudo são:
 
 
 ## Intermediário
+1. [CAD](https://github.com/Natalnet/ModulosDeEstudo/tree/master/CAD)
 1. ESP 
 1. Impressora 3D
+1. Introdução a _Deep Learning_
 1. CNC
 1. Introdução ao ROS 
 1. Introdução Redes Neurais
@@ -37,5 +39,4 @@ Os atuais módulos de estudo são:
 
 ## Avançado
 1. Processamento de Linguagem Natural 
-1. Introdução a _Deep Learning_
 1. [Robot Operating System (ROS) Intermediário](ROS/Intermediario)
