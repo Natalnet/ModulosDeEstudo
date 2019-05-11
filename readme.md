@@ -7,7 +7,7 @@ Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 1. [Grupo de Aplicativos e Sistemas (GAS)](https://github.com/Natalnet/GAS)
 1. [Grupo de Integração Maker (GIM)](https://github.com/Natalnet/GIM)
 1. [Grupo de Aprendizado de Máquina (GAM)](https://github.com/Natalnet/GAM)
-1. [Grupo CAD (GCAD)](https://github.com/Natalnet/GCAD)
+1. [Grupo de CAD (GCAD)](https://github.com/Natalnet/GCAD)
 
 Os atuais módulos de estudo são: 
 
