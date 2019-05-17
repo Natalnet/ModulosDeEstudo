@@ -17,13 +17,13 @@ Os atuais módulos de estudo são:
 ## Inicial
 1. [Introdução ao GIT](IntroducaoAoGit/)
 1. [Introdução ao HTML](IntroducaoAoHTML/)
-1. [Introdução a Robótica Educacional](IntroducaoARoboticaEducacional/)
+1. [Introdução à Robótica Educacional](IntroducaoARoboticaEducacional/)
 1. [Introdução a Javascript](IntroducaoAJavascript/)
 1. [Introdução a NodeJS](IntroducaoANodeJS/)
 1. [Introdução a React](IntroducaoAReact/)
 1. [Introdução a React Native](IntroducaoAReactNative/)
-1. Introdução à Python
-
+1. [Introdução à Linguagem Python](Python/Basico/)
+1. [Terminal do Linux](Linux/)
 
 
 ## Intermediário
@@ -32,7 +32,6 @@ Os atuais módulos de estudo são:
 1. [Impressão 3D](https://github.com/Natalnet/ModulosDeEstudo/tree/master/Impressao3D) 
 1. Introdução a _Deep Learning_
 1. CNC
-1. Introdução ao ROS 
 1. Introdução Redes Neurais
 1. MicroPython 
 1. [Robot Operating System (ROS) Básico](ROS/Basico)
