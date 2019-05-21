@@ -11,6 +11,8 @@ Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 1. [Grupo de Robótica (GR)](https://github.com/Natalnet/GR)
 1. [Grupo de Visão Computacional (GVC)](https://github.com/Natalnet/GVC)
 1. [Grupo de Proteses Mioelétricas (GPM)](https://github.com/Natalnet/GPM)
+1. [Grupo de Ciência de Dados Educacionais](https://github.com/Natalnet/GCD)
+1. [Grupo de Ciência de Dados](https://github.com/Natalnet/GCiD)
 
 Os atuais módulos de estudo são: 
 
