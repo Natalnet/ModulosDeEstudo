@@ -3,16 +3,17 @@
 Os módulo de estudo são mantidos pelos grupos de estudo da rede Natalnet.
 Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 
-1. [Grupo de Robótica Educacional (GRE)](https://github.com/Natalnet/GRE)
-1. [Grupo de Aplicativos e Sistemas (GAS)](https://github.com/Natalnet/GAS)
-1. [Grupo de Integração Maker (GIM)](https://github.com/Natalnet/GIM)
-1. [Grupo de Aprendizado de Máquina (GAM)](https://github.com/Natalnet/GAM)
-1. [Grupo de CAD (GCAD)](https://github.com/Natalnet/GCAD)
-1. [Grupo de Robótica (GR)](https://github.com/Natalnet/GR)
-1. [Grupo de Visão Computacional (GVC)](https://github.com/Natalnet/GVC)
-1. [Grupo de Proteses Mioelétricas (GPM)](https://github.com/Natalnet/GPM)
-1. [Grupo de Ciência de Dados Educacionais](https://github.com/Natalnet/GCD)
-1. [Grupo de Ciência de Dados](https://github.com/Natalnet/GCiD)
+1. [GRE - Grupo de Robótica Educacional](https://github.com/Natalnet/GRE)
+1. [GAS - Grupo de Aplicativos e Sistemas](https://github.com/Natalnet/GAS)
+1. [GIM - Grupo de Integração Maker](https://github.com/Natalnet/GIM)
+1. [GAM - Grupo de Aprendizado de Máquina](https://github.com/Natalnet/GAM)
+1. [GCAD - Grupo de CAD](https://github.com/Natalnet/GCAD)
+1. [GR - Grupo de Robótica](https://github.com/Natalnet/GR)
+1. [GVC - Grupo de Visão Computacional](https://github.com/Natalnet/GVC)
+1. [GPM - Grupo de Proteses Mioelétricas](https://github.com/Natalnet/GPM)
+1. [GCDE - Grupo de Ciência de Dados Educacionais](https://github.com/Natalnet/GCD)
+1. [GCiD - Grupo de Ciência de Dados](https://github.com/Natalnet/GCiD)
+1. [ACT - Grupo de Análise do Comportamento e Tecnologia](https://github.com/Natalnet/ACT)
 
 Os atuais módulos de estudo são: 
 
