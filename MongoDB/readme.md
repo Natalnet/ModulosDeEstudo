@@ -34,6 +34,13 @@ Visualizando as coleções do banco
 ```
 >  db.getCollectionNames() 
 ```
+## Instalação no Ubuntu 
+
+Ver seção “Install MongoDB Community Edition” no link: 
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/ 
+
+## Ferramentas de gerenciamento 
+* Studio 3T e Robot 3T, https://robomongo.org/  
 
 ## Referências 
 1. MongoDB, https://www.mongodb.com/
