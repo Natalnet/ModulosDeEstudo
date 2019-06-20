@@ -44,3 +44,4 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 
 ## Referências 
 1. MongoDB, https://www.mongodb.com/
+1. Comando systemctl, https://wiki.archlinux.org/index.php/Systemd#Using_units 
