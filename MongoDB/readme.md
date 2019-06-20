@@ -1,15 +1,39 @@
-# Introdução a NodeJS
-## Pré-requisitos: Javascript
-## Servidor JSON 
-Instalação
+# MongoDB
+
+## Pré-requisitos
+* Javascript
+* Banco de Dados 
+* NodeJS 
+
+## Servidor Ubuntu
+Iniciando o mongodb
 ```
-$ npm install -g json-server
+$ sudo service mongod start
 ```
-Uso
+Vendo o status 
 ```
-$ json-server json_db_file_name.json --port 3001
+$ sudo service mongod status
+```
+## Linha de comando 
+Abrindo linha de comando mongodb 
+```
+$ mongo 
 ```
 
-## Referências
-1. Curso NodeJS | Rocketseat , https://rocketseat.com.br/starter/curso-gratuito-nodejs
-1. Servidor JSON, https://www.npmjs.com/package/json-server
+Mostrando os bancos de dados
+```
+> show dbs  
+```
+
+Conectando com o banco de dados
+```
+> use nome_do_banco  
+```
+
+Visualizando as coleções do banco 
+```
+>  db.getCollectionNames() 
+```
+
+## Referências 
+1. MongoDB, https://www.mongodb.com/
