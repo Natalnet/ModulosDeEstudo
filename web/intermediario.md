@@ -64,3 +64,4 @@ $ sudo systemctl enable nginx
 1. PM2, http://pm2.keymetrics.io 
 1. How To Install Nginx on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
 1. How To Set Up a Node.js Application for Production on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
+1. A guide to hosting static websites using NGINX, https://medium.com/@jgefroh/a-guide-to-using-nginx-for-static-websites-d96a9d034940
