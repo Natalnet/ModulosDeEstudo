@@ -59,6 +59,11 @@ Para habiltar que o serviço inicie automaticamente quando o servidor for reinic
 $ sudo systemctl enable nginx
 ```
 
+Para verificar se existe algum erro de escrita nos arquivos de configurações 
+```
+$ sudo nginx -t
+```
+
 ## Referências 
 
 1. PM2, http://pm2.keymetrics.io 
