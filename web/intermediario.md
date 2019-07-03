@@ -32,6 +32,11 @@ Deixar de gerenciar
 $ pm2 delete MeuAplicativo 
 ```
 
+Executar em uma porta desejada 
+```
+pm2 start binary-file -- --port 1520
+``` 
+
 ## Nginx web server 
 
 Parar o servidor:
