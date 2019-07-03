@@ -64,9 +64,72 @@ Para verificar se existe algum erro de escrita nos arquivos de configurações
 $ sudo nginx -t
 ```
 
+### Servindo uma pagina estática
+
+Crie o diretório paras os arquivos da página 
+```
+$ sudo mkdir -p /var/www/test.com/html
+``` 
+
+Verifique as permissões de acesso a este diretório
+
+Crie uma página simples
+``` 
+$ nano /var/www/test.com/html/index.html
+``` 
+Exemplo de conteúdo para index.html 
+```html 
+<html>
+    <head>
+        <title>Bem vindo à test.com!</title>
+    </head>
+    <body>
+        <h1> Página test.com funcionando! </h1>
+    </body>
+</html>
+``` 
+
+Editando o arquivo de configuração para a página no Nginx 
+```
+$ sudo nano /etc/nginx/sites-available/teste.com
+``` 
+
+Exemplo de configuração para 'teste.com' 
+```
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /var/www/teste.com/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name teste.com www.teste.com;
+
+        location / {
+                try_files $uri $uri/ =404;
+        }
+}
+```
+
+Crie um link simbólico para os sites habiltados no Nginx 
+```
+$ sudo ln -s /etc/nginx/sites-available/teste.com /etc/nginx/sites-enabled/
+```
+
+Faça a checagem de sintaxe
+```
+$ sudo nginx -t
+```
+
+Reinicie o Nginx
+```
+$ sudo systemctl restart nginx
+``` 
+
 ## Referências 
 
 1. PM2, http://pm2.keymetrics.io 
 1. How To Install Nginx on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04
 1. How To Set Up a Node.js Application for Production on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04
 1. A guide to hosting static websites using NGINX, https://medium.com/@jgefroh/a-guide-to-using-nginx-for-static-websites-d96a9d034940
+1. How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04  
