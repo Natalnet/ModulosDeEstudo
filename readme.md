@@ -42,6 +42,7 @@ Os atuais módulos de estudo são:
 1. [MongoDB](MongoDB/)
 1. [Robot Operating System (ROS) Básico](ROS/Basico)
 1. Visão Computacional 
+1. [Servidor WEB](web/intermediario.md)
 
 
 
