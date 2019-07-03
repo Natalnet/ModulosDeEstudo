@@ -1,4 +1,4 @@
-# Recurso WEB
+# Recursos WEB
 
 ## Rodando a aplicação no servidor de produção 
 
