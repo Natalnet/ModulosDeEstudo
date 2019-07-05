@@ -37,12 +37,12 @@ Visualizando as coleções do banco
 
 Inserindo um documento 
 ```
-db.collection_name.insertOne( ... ) 
+> db.collection_name.insertOne( ... ) 
 ```
 
 Consultando em uma coleção 
 ```
-db.collection_name.find( { name: "value" } )
+> db.collection_name.find( { name: "value" } )
 ```
 
 ## Instalação no Ubuntu 
