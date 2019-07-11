@@ -69,7 +69,7 @@ Para verificar se existe algum erro de escrita nos arquivos de configurações
 $ sudo nginx -t
 ```
 
-### Servindo uma pagina estática
+### Servindo uma página estática
 
 Crie o diretório paras os arquivos da página 
 ```
@@ -130,6 +130,15 @@ Reinicie o Nginx
 ```
 $ sudo systemctl restart nginx
 ``` 
+### Servindo uma aplicação react 
+
+Gerando o código de produção 
+```
+$ yarn build 
+``` 
+Semelhante a seção anterior, mas os arquivos do servidor web estão na pasta build. 
+
+
 
 ## Referências 
 
