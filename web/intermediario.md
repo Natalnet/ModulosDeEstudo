@@ -136,8 +136,24 @@ Gerando o código de produção
 ```
 $ yarn build 
 ``` 
-Semelhante a seção anterior, mas os arquivos do servidor web estão na pasta build. 
 
+Exemplo do arquivo de configuração da página react:
+```
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /var/www/teste.com/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name teste.com www.teste.com;
+
+        location / {
+                try_files $uri /index.html;
+        }
+}
+```
+Com essa configuração no bloco _location_ o nginx libera o acesso as várias URLs da página.  
 
 
 ## Referências 
