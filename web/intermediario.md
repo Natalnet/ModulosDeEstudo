@@ -155,6 +155,33 @@ server {
 ```
 Com essa configuração no bloco _location_ o nginx libera o acesso as várias URLs da página.  
 
+### Servindo uma aplicação _backend_ NodeJS
+
+Criar um arquivo de configuração para acesso a uma URL 
+* Na pasta "/etc/nginx/site-available/mone_do_dominio.com.br" 
+
+Exemplo: 
+```
+server {
+        listen 80;
+        listen [::]:80;
+
+        server_name nome_do_dominio.com;
+
+        location / {
+                proxy_pass http://localhost:3000; 
+                try_files $uri /index.html;
+                proxy_http_version 1.1; 
+                proxy_set_header Upgrade $http_upgrade; 
+                proxy_set_header Connection 'upgrade'; 
+                proxy_set_header Host $host; 
+                proxy_cache_bypass $http_upgrade; 
+         }
+} 
+```
+
+O restante é semelhante a seção "Servindo uma página estática"
+
 
 ## Referências 
 
