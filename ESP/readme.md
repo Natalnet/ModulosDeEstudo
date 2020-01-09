@@ -32,7 +32,16 @@ Configure o endereço e a opção de autoconexão:
 ``` 
 O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Serial Ports". A opção de autoconexão deve ser desabilitada para que o endereço manual seja utilizado. 
 
+## Projeto Micropython em VSCode 
 
+1. Crie uma pasta 
+1. Salve os arquivos _boot.py_ e _main.py_
+1. Clique no botão "All commands" e "Pymakr > Project Settings" para criar o aquivo de configuração "pymakr.conf" do projeto 
+
+
+
+
+On Visual Studio Code you need to click the All commands button on the bottom of the windows, then click Pymakr > Project Settings. This creates a file called pymakr.conf 
 
 
 ## Referências
