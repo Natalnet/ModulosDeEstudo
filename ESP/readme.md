@@ -36,12 +36,9 @@ O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Seri
 
 1. Crie uma pasta 
 1. Salve os arquivos _boot.py_ e _main.py_
-1. Clique no botão "All commands" e "Pymakr > Project Settings" para criar o aquivo de configuração "pymakr.conf" do projeto 
+1. Clique no botão "**All commands**" e "**Pymakr > Project Settings**" para criar o aquivo de configuração "**pymakr.conf**" do projeto 
 
-
-
-
-On Visual Studio Code you need to click the All commands button on the bottom of the windows, then click Pymakr > Project Settings. This creates a file called pymakr.conf 
+ 
 
 
 ## Referências
