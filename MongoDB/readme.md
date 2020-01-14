@@ -42,8 +42,14 @@ Inserindo um documento
 
 Consultando em uma coleção 
 ```
-> db.collection_name.find( { name: "value" } )
+> db.collection_name.find( { "name": "value" } )
 ```
+
+Atualizando  
+```
+> db.collection_name.update( { "name": "value" }, $set: {"attribute": "value" } )
+```
+
 
 ## Instalação no Ubuntu 
 
@@ -57,4 +63,5 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 1. MongoDB, https://www.mongodb.com/
 1. Comando systemctl, https://wiki.archlinux.org/index.php/Systemd#Using_units 
 1. How to Install and Secure MongoDB on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-mongodb-on-ubuntu-16-04
-1. https://docs.mongodb.com/manual/crud/ 
+1. CRUD, https://docs.mongodb.com/manual/crud/ 
+1. Manual Mongo, https://docs.mongodb.com/manual/reference/mongo-shell/
