@@ -9,6 +9,8 @@ $ pip install esptool
 
 ## Gravando um firmware  
 
+### ESP32 
+
 Apaganado a memoria _flash_: 
 ```
 $ esptool.py --chip esp32 --port /dev/ttyUSB0 erase_flash 
@@ -16,8 +18,21 @@ $ esptool.py --chip esp32 --port /dev/ttyUSB0 erase_flash
 
 Gravando o arquivo binário: 
 ```
-esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 460800 write_flash -z 0x1000 esp32-20190125-v1.10.bin
+$ esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 460800 write_flash -z 0x1000 esp32-20190125-v1.10.bin
 ```
+
+### ESP8266 
+Apagando a memória _flash_: 
+
+```
+$ esptool.py --port /dev/ttyUSB0 erase_flash 
+``` 
+Gravando o arquivo binário: 
+``` 
+$ esptool.py --port /dev/ttyUSB0 --baud 460800 write_flash --flash_size=detect 0 esp8266-20191220-v1.12.bin 
+``` 
+
+
 ## Usando o terminal micropython 
 
 ### Visual Studio Code 
