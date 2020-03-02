@@ -45,6 +45,13 @@ Consultando em uma coleção
 > db.collection_name.find( { "name": "value" } )
 ```
 
+Deletando uma instância de uma coleção 
+```
+> db.collection_name.deleteOne({ "_id": ObjectId("5e5c21e8a3e9e42ecf8ed8f0") }); 
+```
+
+
+
 Atualizando  
 ```
 > db.collection_name.update( { "name": "value" }, $set: {"attribute": "value" } )
