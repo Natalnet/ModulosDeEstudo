@@ -30,7 +30,7 @@ ReactDOM.render(
 
 O `ReactDOM` é utilizado para manipular elementos HTML. O `ReactDOM.render` atualizar o elemento HTML de id='root' com o conteúdo "Olá Mundo!". O 'root' é selecionado através de `document.getElementById('root')`. Veja o arquivo 'public/index.html'. 
 
-## Trabalhando com JSX
+#### Trabalhando com JSX
 
 O JSX permite gerar elementos HTMLs a partir de código JavaScript usando uma sintaxe que é JavaScript (JSX) mas muito semelhante ao HTML. Mais informações em https://pt-br.reactjs.org/docs/introducing-jsx.html  
 
@@ -48,6 +48,20 @@ ReactDOM.render(
 );
 ``` 
 
+### CSS 
+
+Será usado o mesmo nome do arquivo a ser aplicado o estilo, neste caso `index.css`. Para este estilor ter efeito é necessário importar o arquivo de estilo no `index.js`: 
+```
+import './index.css'
+```
+
+Exemplo para o arquivo `index.css`:
+``` 
+body {
+    background-color: #222;
+    color: #fff 
+}
+``` 
 
 
 
