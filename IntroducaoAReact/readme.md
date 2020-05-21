@@ -56,7 +56,7 @@ import './index.css'
 ```
 
 Exemplo para o arquivo `index.css`:
-``` 
+```css 
 body {
     background-color: #222;
     color: #fff 
