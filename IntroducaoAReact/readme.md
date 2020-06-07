@@ -103,5 +103,11 @@ ReactDOM.render(
 );
 ```
 
+O resultado em um navegador de internet fica semelhante a figura abaixo: 
+
+
+![Tela do Navegador](com_parametro.png)
+
 ### Referências
-* Curso de React | Rocketseat , https://rocketseat.com.br/starter/curso-gratuito-reactjs
+* Curso de React | Rocketseat, https://rocketseat.com.br/starter/curso-gratuito-reactjs
+* Curso de React | Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!, https://www.udemy.com/course/react-redux-pt/ 
