@@ -38,3 +38,4 @@ base_de_dados.to_csv("nome_do_arquivo.csv", sep=',')
 
 ### Referências
 * [Pandas: Merge, join, and concatenate](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)  
+* [Python | Pandas Series](https://www.geeksforgeeks.org/python-pandas-series/#Basics)
