@@ -16,22 +16,22 @@ import pandas as pd
 base_de_dados = pd.read_csv("nome_do_arquivo.csv")
 ```
 
-### DataFrame
-## Cria a partir de um vetor de indices 
+## DataFrame
+### Cria a partir de um vetor de indices 
 ```python
 df = pd.DataFrame(columns=['colunaA','ColunaB','etc'], index=vetor_indices )
 ```
-## Renomeia colunas 
+### Renomeia colunas 
 ```python
 base_de_dados.rename(columns={'nome_antigo':'nome_novo'}, inplace=True)
 ``` 
 
-## União através de uma chave
+### União através de uma chave
 ```python
 base_de_dados_resultante = pd.merge(data_set_esquerdo, data_set_esquerdo, on='nome_da_coluna')
 ```
 
-## Salva um arquivo csv 
+### Salva um arquivo csv 
 ```python
 base_de_dados.to_csv("nome_do_arquivo.csv", sep=',')
 ```
