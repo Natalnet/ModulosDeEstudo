@@ -26,5 +26,10 @@ base_de_dados.rename(columns={'nome_antigo':'nome_novo'}, inplace=True)
 base_de_dados_resultante = pd.merge(data_set_esquerdo, data_set_esquerdo, on='nome_da_coluna')
 ```
 
+## Salva um arquivo csv 
+```python
+base_de_dados.to_csv("nome_do_arquivo.csv", sep=',')
+```
+
 ### Referências
 * [Pandas: Merge, join, and concatenate](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)  
