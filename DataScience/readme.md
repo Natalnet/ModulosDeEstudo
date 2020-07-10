@@ -16,6 +16,11 @@ import pandas as pd
 base_de_dados = pd.read_csv("nome_do_arquivo.csv")
 ```
 
+### DataFrame
+## Cria a partir de um vetor de indices 
+```python
+df = pd.DataFrame(columns=['colunaA','ColunaB','etc'], index=vetor_indices )
+```
 ## Renomeia colunas 
 ```python
 base_de_dados.rename(columns={'nome_antigo':'nome_novo'}, inplace=True)
