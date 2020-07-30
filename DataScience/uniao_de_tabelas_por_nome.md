@@ -11,13 +11,14 @@ uploaded = files.upload()
 ```python
 # Pandas: biblioteca para manipular a base de dados 
 import pandas as pd 
-# read_csv: método para ler a base de dados no formato csv
-# leitura do perfil da turma  
+# read_excel: método para ler a base de dados no formato de planilha do excel 
+# leitura do primeiro arquivo   
 tabela1 = pd.read_excel("arquivo_tabela1.xlsx")
 
 # visualização das primeiras linhas da base de dados 
 tabela1.head() 
 
+# leitura do segundo arquivo 
 tabela2 = pd.read_excel("arquivo_tabela2.xlsx")
 tabela2.head()
 ```
