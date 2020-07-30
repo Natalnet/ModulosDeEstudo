@@ -27,11 +27,14 @@ tabela2.head()
 * Junta as duas tabelas pelo atributo "Nome"  
 * A opção 'outer' junta todos os nomes existentes na coluna 'Nome' 
 ```python
-notas_p3 = pd.merge( dados_sigaa, listas_UII, how='outer', on='Nome')
+uniao_dados = pd.merge( tabela1, tabela2, how='outer', on='Nome')
 ```
 
 ## Salva
 * Cria um arquivo csv com a opção de separador sendo a vírgula 
 ```python 
-notas_p3.to_csv("teste_p3.csv", sep=',')
+uniao_dados.to_csv("teste_p3.csv", sep=',')
 ```
+
+## Referências 
+* Pandas Data Frame Merge, https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html 
