@@ -21,3 +21,16 @@ tabela1.head()
 tabela2 = pd.read_excel("arquivo_tabela2.xlsx")
 tabela2.head()
 ```
+
+## Realizando o Merge
+* Junta as duas tabelas pelo atributo "Nome"  
+* A opção 'outer' junta todos os nomes existentes na coluna 'Nome' 
+```python
+notas_p3 = pd.merge( dados_sigaa, listas_UII, how='outer', on='Nome')
+```
+
+## Salva
+* Cria um arquivo csv com a opção de separador sendo a vírgula 
+```python 
+notas_p3.to_csv("teste_p3.csv", sep=',')
+```
