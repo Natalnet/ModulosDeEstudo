@@ -16,6 +16,7 @@ Atualmente a Natalnet conta com os seguintes Grupos de Estudo:
 1. [GCDE - Grupo de Ciência de Dados Educacionais](https://github.com/Natalnet/GCD)
 1. [GCiD - Grupo de Ciência de Dados](https://github.com/Natalnet/GCiD)
 1. [ACT - Grupo de Análise do Comportamento e Tecnologia](https://github.com/Natalnet/ACT)
+1. [GSI - Grupo de Segurança da Informação](https://github.com/Natalnet/GSI)
 
 Os atuais módulos de estudo são: 
 
