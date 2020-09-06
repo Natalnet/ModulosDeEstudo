@@ -22,7 +22,7 @@ base_de_dados = pd.read_excel("nome_do_arquivo.xlsx")
 ``` 
 
 ## DataFrame
-### Cria a partir de um vetor de indices 
+### Cria a partir de um vetor de índices 
 ```python
 df = pd.DataFrame(columns=['colunaA','ColunaB','etc'], index=vetor_indices )
 ```
@@ -40,6 +40,11 @@ base_de_dados['campo'] = base_de_dados['campo'].fillna(0)
 ```python
 base_de_dados['campo'] = base_de_dados['campo'].astype(int) 
 ``` 
+
+### Conta a ocorrência de valores categóricos em uma coluna 
+```python
+base_de_dados["campo"].value_counts()
+```
 
 ### União através de uma chave
 ```python
