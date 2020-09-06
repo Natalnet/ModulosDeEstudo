@@ -26,6 +26,16 @@ df = pd.DataFrame(columns=['colunaA','ColunaB','etc'], index=vetor_indices )
 base_de_dados.rename(columns={'nome_antigo':'nome_novo'}, inplace=True)
 ``` 
 
+### Preencher campos vázios com zeros
+```python
+base_de_dados['campo'] = base_de_dados['campo'].fillna(0)
+```
+
+### Converte um campo para inteiro
+```python
+base_de_dados['campo'] = base_de_dados['campo'].astype(int) 
+``` 
+
 ### União através de uma chave
 ```python
 base_de_dados_resultante = pd.merge(data_set_esquerdo, data_set_esquerdo, on='nome_da_coluna')
