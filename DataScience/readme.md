@@ -16,6 +16,11 @@ import pandas as pd
 base_de_dados = pd.read_csv("nome_do_arquivo.csv")
 ```
 
+### Ler arquivos no formato de excel 
+```python
+base_de_dados = pd.read_excel("nome_do_arquivo.xlsx")
+``` 
+
 ## DataFrame
 ### Cria a partir de um vetor de indices 
 ```python
