@@ -56,6 +56,21 @@ base_de_dados_resultante = pd.merge(data_set_esquerdo, data_set_esquerdo, on='no
 base_de_dados.to_csv("nome_do_arquivo.csv", sep=',')
 ```
 
+
+# Introdução ao plot 
+
+## Correlação 
+
+### Análise Visual de Correlação 
+
+```python 
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+sns.pairplot(dados_casas, size=2.5)
+plt.tight_layout()
+``` 
+
 ### Referências
 * [Pandas: Merge, join, and concatenate](https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html)  
 * [Python | Pandas Series](https://www.geeksforgeeks.org/python-pandas-series/#Basics)
