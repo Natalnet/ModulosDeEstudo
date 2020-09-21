@@ -21,6 +21,13 @@ base_de_dados = pd.read_csv("nome_do_arquivo.csv")
 base_de_dados = pd.read_excel("nome_do_arquivo.xlsx")
 ``` 
 
+### Ler de uma URL
+
+```python 
+# read_csv: método para ler a base de dados no formato csv 
+dados_url = pd.read_csv("https://raw.githubusercontent.com/ect-info/ml/master/dados/base_de_dados.csv") 
+```
+
 ## DataFrame
 ### Cria a partir de um vetor de índices 
 ```python
