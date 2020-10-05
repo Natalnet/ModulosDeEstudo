@@ -28,6 +28,12 @@ Criando o ambiente virtual
 $ virtualenv my_project_env
 ```
 
+Ativando o ambiente virtual 
+```
+$ source my_project_env/bin/activate
+``` 
+
+
 
 ## Referências 
 
