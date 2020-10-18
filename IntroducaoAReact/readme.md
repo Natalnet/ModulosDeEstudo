@@ -11,7 +11,7 @@ Será criada uma pasta com nome-app (nome do aplicativo abreviado) contendo os a
 
 Para executar esta aplicação entre na pasta e execute o camando: 
 ``` 
-$ npm start
+$ yarn start
 ``` 
 
 ### Olá Mundo 
