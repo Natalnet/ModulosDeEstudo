@@ -63,6 +63,12 @@ base_de_dados_resultante = pd.merge(data_set_esquerdo, data_set_esquerdo, on='no
 base_de_dados.to_csv("nome_do_arquivo.csv", sep=',')
 ```
 
+### Seleção através de linhas com base em condições 
+```python
+variavel_sel = base_de_dados["nome_da_coluna"] > n 
+base_de_dados_sel = base_de_dados[varaivel_sel] 
+``` 
+
 
 # Introdução ao plot 
 
