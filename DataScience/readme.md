@@ -63,6 +63,10 @@ base_de_dados["campo"].value_counts()
 base_de_dados.isnull().sum() 
 ```
 
+### Remove linhas nulas 
+```python 
+base_de_dados.dropna(inplace=True)
+```
 
 ### União através de uma chave
 ```python
