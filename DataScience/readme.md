@@ -1,6 +1,11 @@
 # Introdução ao Pandas
 **Pré-requisitos: Python** 
 
+## Sumário 
+[Carregar Arquivos ]()
+[DataFrames]()
+[Introdução ao plot ]()
+
 ## Carregar Arquivos 
 
 ### Abre uma janela para upload de arquivos 
@@ -70,9 +75,7 @@ base_de_dados_sel = base_de_dados[varaivel_sel]
 ``` 
 
 
-# Introdução ao plot 
-
-## Correlação 
+## Introdução ao plot 
 
 ### Análise Visual de Correlação 
 
