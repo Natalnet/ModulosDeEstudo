@@ -22,6 +22,26 @@ Document Term Matrix (DTM)
 
 ### Term Frequency - Inverse Document Freq (TF-IDF) 
 
+```python 
+from sklearn.feature_extraction.text import TfidfTransformer
+
+tiidf_tranformer = TfidfTransformer()
+
+X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts) 
+```
+
+### TF-IDF Vectorizer 
+
+```python 
+from sklearn.feature_extration.text import TfidfVectorizer 
+
+vectorizer = TfidfVectorizer() 
+
+X_train_tfidf = vectorizer.fit_transform(X_train) 
+```
+
+
+
 
 
 
