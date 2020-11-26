@@ -58,6 +58,12 @@ base_de_dados['campo'] = base_de_dados['campo'].astype(int)
 base_de_dados["campo"].value_counts()
 ```
 
+### Conta quantas células estão vazias 
+```python
+base_de_dados.isnull().sum() 
+```
+
+
 ### União através de uma chave
 ```python
 base_de_dados_resultante = pd.merge(data_set_esquerdo, data_set_esquerdo, on='nome_da_coluna')
