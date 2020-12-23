@@ -15,7 +15,7 @@ Exemplos de _Brokers_ disponíveis na internet:
 Para dar suporte a construção de sistema IoT é fundamental o uso de ferramentas que auxiliem na verificação do funcionamento dos dispositivos conectados ao Broker. Existem várias opções de softwares para o monitoramento de dispositivos IoT. Estes softwares funcionam como clientes MQTT, são capazes de monitorar um Broker e trocar mensagens. 
 
 Exemplos:
-* MQTT Exlorer (Testado no Windows) 
+* MQTT Explorer (Testado no Windows) 
 * MQTTBox (Testado no Windows) 
 
 ## Referências 
