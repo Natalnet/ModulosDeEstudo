@@ -8,7 +8,7 @@ O _Broker_ é um servidor para a troca de mensagens, responsável por intermedia
 
 Exemplos de _Brokers_ disponíveis na internet: 
 * [CloudMQTT](https://cloudmqtt.com)
-* [mosquitto](https://test.mosquitto.org/)
+* [Mosquitto](https://test.mosquitto.org/)
 
 ## Ferramentas 
 
