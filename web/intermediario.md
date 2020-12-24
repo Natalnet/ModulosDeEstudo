@@ -192,3 +192,4 @@ O restante é semelhante a seção "Servindo uma página estática"
 1. How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04, https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04  
 1. Como Instalar o Nginx no Ubuntu 16.04,  https://www.digitalocean.com/community/tutorials/como-instalar-o-nginx-no-ubuntu-16-04-pt
 1. How to Configure NGINX, https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/
+1. [How To Secure Nginx with Let's Encrypt on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-18-04) 
