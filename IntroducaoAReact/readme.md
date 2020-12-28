@@ -1,4 +1,4 @@
-# Introdução a React
+# Introdução React
 **Pré-requisitos: Javascript, HTML, CSS** 
 
 ## Tópicos 
