@@ -5,11 +5,11 @@ O "Olá mundo!" é o primeiro programa escrito quando estamos aprendendo uma nov
 ## Código 
 Com o Firmware MicroPython gravado, basta acessar o terminal MicroPython e digitar os seguintes comandos: 
 
-Importar a biblioteca "machine", instanciar um objeto (pin) para ter acesso aos pinos e configurar esse objeto com pino de saída conectado ao GPIO 16. 
+Importar a biblioteca "machine", instanciar um objeto (pin) para ter acesso aos pinos e configurar esse objeto com pino de saída conectado ao GPIO 02. Esse código foi testado no NodeMCU ESP32.  
 ```python
 import machine
 
-pin = machine.Pin(16, machine.Pin.OUT)
+pin = machine.Pin(2, machine.Pin.OUT)
 ``` 
 
 Ligar o led
