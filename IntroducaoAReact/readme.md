@@ -63,5 +63,5 @@ ReactDOM.render(
 ```
 
 ### Referências
-* Curso de React | Rocketseat, https://rocketseat.com.br/starter/curso-gratuito-reactjs
+* Curso de React | Rocketseat, https://rocketseat.com.br 
 * Curso de React | Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!, https://www.udemy.com/course/react-redux-pt/ 
