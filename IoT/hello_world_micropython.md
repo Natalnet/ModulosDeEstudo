@@ -1,0 +1,32 @@
+# Hello World!
+
+O "Olá mundo!" é o primeiro programa escrito quando estamos aprendendo uma nova linguagem. No caso do Micro Python e ESP vamos considerar que o olá mundo é ligar e desligar o LED que vem embarcado nos Kit de desenvolvimento ESPs. 
+
+## Código 
+Com o Firmware MicroPython gravado, basta acessar o terminal MicroPython e digitar os seguintes comandos: 
+
+Importar a biblioteca "machine", instanciar um objeto (pin) para ter acesso aos pinos e configurar esse objeto com pino de saída conectado ao GPIO 16. 
+```python
+import machine
+
+pin = machine.Pin(16, machine.Pin.OUT)
+``` 
+
+Ligar o led
+
+```python
+pin.on()
+```
+ou 
+```python
+pin.value(1)
+``` 
+
+Desligar o led
+```python
+pin.off()
+```
+ou
+```python
+pin.value(0)
+``` 
