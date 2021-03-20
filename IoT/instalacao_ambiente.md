@@ -8,6 +8,7 @@ Ferramenta para programação.
 Link para baixar: https://code.visualstudio.com/ 
 
 ### Pymakr
+Antes de instalar essa extensão é necessário instalar o [NodeJS](https://nodejs.org)
 
 Usado para realizar uploads de códigos / arquivos em python.  Instalação via extensões do Visual Studio Code. 
 
