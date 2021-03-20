@@ -12,13 +12,27 @@ $ pip install esptool
 ### ESP32 
 
 Apaganado a memoria _flash_: 
+
+No linux: 
 ```
 $ esptool.py --chip esp32 --port /dev/ttyUSB0 erase_flash 
 ```
 
+No Windows:
+```
+> esptool.py --chip esp32 --port COM4 erase_flash 
+```
+
 Gravando o arquivo binário: 
+
+No linux:
 ```
 $ esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 460800 write_flash -z 0x1000 esp32-20190125-v1.10.bin
+```
+
+No windows:
+```
+> esptool.py --chip esp32 --port COM4 --baud 460800 write_flash -z 0x1000 esp32-20190125-v1.10.bin
 ```
 
 Dica: Se você estiver no windows e quiser saber qual a porta entre no gerenciador de dispositivos. No navegador de arquivos, clique com o botão direito sobre "Este Computador", na janela que acabou de abrir clique em "Gerenciador de Dispositivos", na janela do Gerenciador de Dispositivos observe as portas disponíveis em "Portas (COM e LPT)". 
