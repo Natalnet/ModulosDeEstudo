@@ -16,3 +16,10 @@ Usado para realizar uploads de códigos / arquivos em python.  Instalação via 
 Instalação da linguagem python no Windows. 
 Link para baixar: https://www.python.org/downloads/ 
 
+### Esptool 
+Instalação do Esptool com pip: 
+```
+> pip install esptool 
+```
+Pode usar o terminal PowerShell do windows. 
+
