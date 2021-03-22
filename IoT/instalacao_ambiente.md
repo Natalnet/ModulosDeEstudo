@@ -10,6 +10,8 @@ Link para baixar: https://code.visualstudio.com/
 ### Pymakr
 Antes de instalar essa extensão é necessário instalar o [NodeJS](https://nodejs.org)
 
+**Dica:** Ao instalar o nodejs a partir do site oficial, o instalador permite instalar também o Python. Tente usar o instalador do NodeJS, antes de instalar qualquer programa deste ambiente para MicroPython. O instaldor do NodeJS vem com o "choco", um gerenciador de pacotes/programas que facilita muito a instalação de novos pacotes, semelhante ao apt-get do unbuntu/debian.  
+
 Usado para realizar uploads de códigos / arquivos em python.  Instalação via extensões do Visual Studio Code. 
 
 ## Python 
