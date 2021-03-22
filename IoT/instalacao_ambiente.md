@@ -26,3 +26,5 @@ Instalação do Esptool com pip:
 ```
 Pode usar o terminal PowerShell do windows. 
 
+## Problemas 
+Caso o windows não encontre o drive USB ao conectar a placa ESP, tente instalar o seguinte drive: [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
