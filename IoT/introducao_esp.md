@@ -64,6 +64,8 @@ Configure o endereço e a opção de autoconexão:
 ...
 "auto_connect": false,
 ``` 
+No windows use a "COM4" ao invés de "/dev/ttyUSB0". Normalmante a COM4 é utilizada, mas verifique antes qual foi a porta reconhecida ao conectar o ESP na porta USB do seu computador. 
+
 O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Serial Ports". A opção de autoconexão deve ser desabilitada para que o endereço manual seja utilizado. 
 
 ## Projeto Micropython em VSCode 
