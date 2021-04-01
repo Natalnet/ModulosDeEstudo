@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World, me MicroPython!
 
 O "Olá mundo!" é o primeiro programa escrito quando estamos aprendendo uma nova linguagem. No caso do Micro Python e ESP vamos considerar que o olá mundo é ligar e desligar o LED que vem embarcado nos Kit de desenvolvimento ESPs. 
 
