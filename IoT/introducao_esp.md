@@ -52,29 +52,13 @@ $ esptool.py --port /dev/ttyUSB0 --baud 460800 write_flash --flash_size=detect 0
 
 No Windows é possíve checar qual a porta de comunicação (COM) que foi liberada para o ESP através do Software "Gerenciador de Dispositivos". 
 
-## Usando o terminal micropython 
 
-### Visual Studio Code 
-
-Instale o plugin **Pymakr** para usar o terminal micropython direto do NodeMCU.  
-
-Configure o endereço e a opção de autoconexão: 
-```json 
-"address": "/dev/ttyUSB0",
-...
-"auto_connect": false,
-``` 
-No windows use a "COM4" ao invés de "/dev/ttyUSB0". Normalmante a COM4 é utilizada, mas verifique antes qual foi a porta reconhecida ao conectar o ESP na porta USB do seu computador. 
-
-O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Serial Ports". A opção de autoconexão deve ser desabilitada para que o endereço manual seja utilizado. 
-
-## Projeto Micropython em VSCode 
+## Projeto MicroPython em VSCode 
 
 1. Crie uma pasta 
 1. Salve os arquivos _boot.py_ e _main.py_
 1. Clique no botão "**All commands**" e "**Pymakr > Project Settings**" para criar o aquivo de configuração "**pymakr.conf**" do projeto 
 
- 
 
 
 ## Referências
