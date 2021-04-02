@@ -8,6 +8,7 @@ $ pip install esptool
 ``` 
 
 ## Gravando um firmware  
+Para mais explicações acesse o vídeo: https://youtu.be/F11Zw-0OYhw 
 
 ### ESP32 
 
