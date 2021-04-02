@@ -1,4 +1,4 @@
-# Instalação do Ambiente 
+# Instalação e Configuração do Ambiente 
 As ferramentas selecionadas para programar, gravar o firmware MicroPython e realizar upload de códigos em dispositivos ESPs (ESP32 e ESP8266). 
 
 ## Visual Studio Code 
@@ -26,5 +26,28 @@ Instalação do Esptool com pip:
 ```
 Pode usar o terminal PowerShell do windows. 
 
+
+## Configurando o terminal MicroPython no VSCode 
+
+O plugin **Pymakr** permite usar o terminal micropython direto do NodeMCU.  
+
+Configure o endereço e a opção de autoconexão: 
+```json 
+"address": "/dev/ttyUSB0",
+...
+"auto_connect": false,
+``` 
+No windows use a "COM4" ao invés de "/dev/ttyUSB0". Normalmante a COM4 é utilizada, mas verifique antes qual foi a porta reconhecida ao conectar o ESP na porta USB do seu computador. 
+
+O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Serial Ports". A opção de autoconexão deve ser desabilitada para que o endereço manual seja utilizado. 
+
 ## Problemas 
 Caso o windows não encontre o drive USB ao conectar a placa ESP, tente instalar o seguinte drive: [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+
+
+## Referências
+1. Documentação Oficial, https://github.com/espressif/esptool 
+1. Firmwares, http://micropython.org/download 
+1. Usando o VS Code, https://docs.pycom.io/pymakr/installation/vscode/ 
+1. Instalação de Mycopython, https://github.com/willcribeiro/ESP8266/wiki/Instala%C3%A7%C3%A3o-do-Micropython-no-ESP8266
+1. Programação de ESP com Micropython, https://github.com/willcribeiro/ESP8266/wiki/Envio-de-c%C3%B3digo-e-ultiliza%C3%A7%C3%A3o-do-ESP 
