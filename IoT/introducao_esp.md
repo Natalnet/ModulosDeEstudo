@@ -1,4 +1,5 @@
 # Introdução a ESP com Micropython
+Vídeo com algumas explicações: https://youtu.be/F11Zw-0OYhw 
 
 ## Instalação 
 
