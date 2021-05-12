@@ -8,6 +8,9 @@ Ferramenta para programação.
 Link para baixar: https://code.visualstudio.com/ 
 
 ### Pymakr
+
+Acesse o seguinte vídeo para informações mais detalhadas: https://youtu.be/oe6PQYoc-R0 
+
 Antes de instalar essa extensão é necessário instalar o [NodeJS](https://nodejs.org)
 
 **Dica:** Ao instalar o nodejs a partir do site oficial, o instalador permite instalar também o Python. Tente usar o instalador do NodeJS, antes de instalar qualquer programa deste ambiente para MicroPython. O instaldor do NodeJS vem com o "choco", um gerenciador de pacotes/programas que facilita muito a instalação de novos pacotes, semelhante ao apt-get do unbuntu/debian.  
