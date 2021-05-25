@@ -11,6 +11,6 @@
 
 ## NextJS 
 
-[Avance para o próximo nível em programação](https://nextlevelweek.com/pre-nlw) 
+* [Avance para o próximo nível em programação](https://nextlevelweek.com/pre-nlw) 
 
 
