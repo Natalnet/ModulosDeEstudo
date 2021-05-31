@@ -16,7 +16,7 @@
 
 [Curso de Deep Learning ofertado pelo professor Lucas Pereira - UFG](https://www.youtube.com/playlist?list=PL95sSdJCNga2vUe_WUFwCOsrPmJnhCCv9) 
 
-[Curso de Deep Learning ofertado pela professora Nádia - UFG](https://www.youtube.com/playlist?list=PL95sSdJCNga1gFpzogEjtR_aODts_kTde) 
+[Curso de NLP ofertado pela professora Nádia - UFG](https://www.youtube.com/playlist?list=PL95sSdJCNga1gFpzogEjtR_aODts_kTde) 
 
 [Introduction to Deep Learning - MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 
 
