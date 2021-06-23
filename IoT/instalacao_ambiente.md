@@ -54,3 +54,5 @@ Caso o windows não encontre o drive USB ao conectar a placa ESP, tente instalar
 1. Usando o VS Code, https://docs.pycom.io/pymakr/installation/vscode/ 
 1. Instalação de Mycopython, https://github.com/willcribeiro/ESP8266/wiki/Instala%C3%A7%C3%A3o-do-Micropython-no-ESP8266
 1. Programação de ESP com Micropython, https://github.com/willcribeiro/ESP8266/wiki/Envio-de-c%C3%B3digo-e-ultiliza%C3%A7%C3%A3o-do-ESP 
+2. ESP32 com MicroPython: configuração, https://brendacq.medium.com/esp32-com-micropython-configura%C3%A7%C3%A3o-6d3b25e591d
+
