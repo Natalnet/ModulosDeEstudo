@@ -12,3 +12,6 @@ Internet das coisas ...
 
 ## Unidade II 
 * [Introdução MQTT](mqtt.md)
+
+## Referências 
+* Brenda Calado, https://brendacq.medium.com/
