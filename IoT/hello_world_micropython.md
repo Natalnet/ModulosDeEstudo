@@ -30,3 +30,7 @@ ou
 ```python
 pin.value(0)
 ``` 
+
+## Referências 
+
+1. ESP32 com MicroPython: primeiros passos, https://brendacq.medium.com/2-esp32-com-micropython-primeiros-passos-20867dfedb92
