@@ -8,6 +8,7 @@ Internet das coisas ...
   * [Pinagem](pinos_placas.md) 
 * [Olá Mundo - MicroPython](hello_world_micropython.md)
 * [Sensor de linha](https://github.com/Natalnet/lib_ura_esp/blob/master/ESP32/LineSensor/README.md) 
+* [Sensor de Distância](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/UltrasonicSensor) 
 * [Robô URA v7](https://github.com/Natalnet/URA3D/blob/master/URA7.md) 
 
 ## Unidade II 
