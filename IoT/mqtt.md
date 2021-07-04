@@ -26,3 +26,4 @@ Exemplos:
 * [O protocolo MQTT](https://www.gta.ufrj.br/ensino/eel878/redes1-2018-1/trabalhos-vf/mqtt/) 
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
 * [What is MQTT? From OPC-Router](https://www.opc-router.com/what-is-mqtt/) 
+* [Testando o protocolo MQTT com a ferramenta MQTTBox](https://youtu.be/_aT_MQ38CEQ) 
