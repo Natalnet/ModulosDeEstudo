@@ -42,13 +42,29 @@ Dica: Se você estiver no windows e quiser saber qual a porta entre no gerenciad
 ### ESP8266 
 Apagando a memória _flash_: 
 
+No linux:
 ```
 $ esptool.py --port /dev/ttyUSB0 erase_flash 
 ``` 
-Gravando o arquivo binário: 
+
+No Windows: 
+```
+> esptool.py.exe --port COM3 erase_flash 
+``` 
+
+
+Gravando o arquivo binário,
+
+No Linux:
 ``` 
 $ esptool.py --port /dev/ttyUSB0 --baud 460800 write_flash --flash_size=detect 0 esp8266-20191220-v1.12.bin 
 ``` 
+
+No Windows: 
+``` 
+$ esptool.py --port COM3 --baud 460800 write_flash --flash_size=detect 0 esp8266-20210618-v1.16.bin
+``` 
+
 
 ### Verificando as Portas 
 
