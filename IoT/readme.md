@@ -29,6 +29,7 @@ Internet das coisas ...
 
 ## Referências 
 * [Microcontroladores e Aplicações / Sistemas Embarcados](https://rafaelaroca.wordpress.com/courses/microcontroladores/)
+* [Minicurso Internet das Coisas (BIPES)](https://www.youtube.com/watch?v=Uukyi7r1HRY)
 * [Blog Brenda Calado](https://brendacq.medium.com/)
 * [Uma ferramenta para carregar o firmware  do micropython via web](https://github.com/rafaelaroca/Adafruit_WebSerial_ESPTool)
 * [Página oficial do BIPES (BIPES: Block based Integrated Platform for Embedded Systems)](https://bipes.net.br/wp/)
