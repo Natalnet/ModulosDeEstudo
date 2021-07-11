@@ -28,8 +28,9 @@ Internet das coisas ...
 * [Interação simples com o robô do URA através de uma página web](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/MQTTBasicControl) 
 
 ## Referências 
-* Brenda Calado, https://brendacq.medium.com/
-* Uma ferramenta para carregar o firmware  do micropython via web, https://github.com/rafaelaroca/Adafruit_WebSerial_ESPTool
-* Página oficial do BIPES (BIPES: Block based Integrated Platform for Embedded Systems), https://bipes.net.br/wp/
-* Blog sobre BIPES, https://rafaelaroca.wordpress.com/?s=bipes
-* Desenvolvimento e validação de módulo de comunicação MQTT para a plataforma BIPES para aplicações de internet das coisas, https://repositorio.ufscar.br/handle/ufscar/13656 
+* [Microcontroladores e Aplicações / Sistemas Embarcados](https://rafaelaroca.wordpress.com/courses/microcontroladores/)
+* [Blog Brenda Calado](https://brendacq.medium.com/)
+* [Uma ferramenta para carregar o firmware  do micropython via web](https://github.com/rafaelaroca/Adafruit_WebSerial_ESPTool)
+* [Página oficial do BIPES (BIPES: Block based Integrated Platform for Embedded Systems)](https://bipes.net.br/wp/)
+* [Blog sobre BIPES](https://rafaelaroca.wordpress.com/?s=bipes)
+* [Desenvolvimento e validação de módulo de comunicação MQTT para a plataforma BIPES para aplicações de internet das coisas](https://repositorio.ufscar.br/handle/ufscar/13656)
