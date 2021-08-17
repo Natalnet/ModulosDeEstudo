@@ -45,7 +45,8 @@ No windows use a "COM4" ao invés de "/dev/ttyUSB0". Normalmante a COM4 é utili
 O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Serial Ports". A opção de autoconexão deve ser desabilitada para que o endereço manual seja utilizado. 
 
 ## Problemas 
-Caso o windows não encontre o drive USB ao conectar a placa ESP, tente instalar o seguinte drive: [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+* Caso o windows não encontre o driver USB ao conectar a placa ESP NodeMCU, tente instalar o seguinte driver: [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+* Se o problema de Driver USB ocorrer com a placa Wemos R32, tente instalar o seguinte driver: [CH340 Driver](https://www.wemos.cc/en/latest/ch340_driver.html)
 
 
 ## Referências
