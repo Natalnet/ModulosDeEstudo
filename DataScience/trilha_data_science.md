@@ -26,4 +26,6 @@
 
 ## Referências 
 
-[VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.](https://jakevdp.github.io/PythonDataScienceHandbook/) 
+* [VanderPlas, Jake. Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.", 2016.](https://jakevdp.github.io/PythonDataScienceHandbook/) 
+* Andreas C. Müller, Sarah Guido. Introduction to Machine Learning with Python: A Guide for Data Scientists.  " O'Reilly Media, Inc.", 2016. 
+
