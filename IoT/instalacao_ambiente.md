@@ -47,6 +47,7 @@ O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Seri
 ## Problemas 
 * Caso o windows não encontre o driver USB ao conectar a placa ESP NodeMCU, tente instalar o seguinte driver: [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
 * Se o problema de Driver USB ocorrer com a placa Wemos R32, tente instalar o seguinte driver: [CH340 Driver](https://www.wemos.cc/en/latest/ch340_driver.html)
+* No segundo semestre de 2021 foi observado que as versões mais novas do visual stúdio code não continua compantível com o plugin pymakr. Para resolver esse problema a solução é instalar uma versão anterior do visual stúdio que seja compátivel com o plugin pymakr. 
 
 
 ## Referências
