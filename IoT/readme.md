@@ -15,7 +15,7 @@ Internet das coisas ...
 * [Sensor de linha](https://github.com/Natalnet/lib_ura_esp/blob/master/ESP32/LineSensor/README.md) 
 * [Ponte H](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/L9110)
 * [Sensor de Distância](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/UltrasonicSensor) 
-* [Robô URA v7](https://github.com/Natalnet/URA3D/blob/master/URA7.md) 
+* [Robô URA v8](https://github.com/Natalnet/URA3D/blob/master/URA8.md) 
 * [Seguidor de Linha](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/LineFollower)
 
 ## Unidade II 
