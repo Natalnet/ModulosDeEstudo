@@ -4,7 +4,7 @@ Internet das coisas ...
 ## Unidade I
 ### Parte Teórica 
 * [Introdução aos Microcontroladores](introducao_microcontroladores.md)
-* Sensores 
+* [Sensores](sensores.md) 
 * Atuadores 
 
 ### Parte Prática 
