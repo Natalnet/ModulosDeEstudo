@@ -28,6 +28,7 @@ Instalação do Esptool com pip:
 > pip install esptool 
 ```
 Pode usar o terminal PowerShell do windows. 
+Observação: No windows é necessário configurar a variável de ambiente PATH (Configurações > Configurações Avançadas do Sistema > Variáveis de Ambiente ... >  Variáveis de Usuário para ... > PATH > Editar ... > Novo ). Você adicionar o diretório onde o executável foi instalado. Essa informação é apresentada no final da mensagem de instalação. 
 
 
 ## Configurando o terminal MicroPython no VSCode 
@@ -46,6 +47,7 @@ O endereço da porta USB pode ser detecado com o "Pymakr > Extras > List of Seri
 
 ## Problemas 
 * Caso o windows não encontre o driver USB ao conectar a placa ESP NodeMCU, tente instalar o seguinte driver: [CP210x USB to UART Bridge](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+  * Baixe um arquivo compactado que tenha o instalador do driver, por exemplo "CP210x Windows Drivers" (acessado em 26/11/2021). 
 * Se o problema de Driver USB ocorrer com a placa Wemos R32, tente instalar o seguinte driver: [CH340 Driver](https://www.wemos.cc/en/latest/ch340_driver.html)
 * No segundo semestre de 2021 foi observado que as versões mais novas do visual stúdio code não continua compantível com o plugin pymakr. Para resolver esse problema a solução é instalar uma versão anterior do visual stúdio que seja compátivel com o plugin pymakr. 
 
