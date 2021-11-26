@@ -38,7 +38,8 @@ O plugin **Pymakr** permite usar o terminal micropython direto do NodeMCU.
 Configure o endereço e a opção de autoconexão (All commands > Pymakr > Global Settings ): 
 ```json 
 "address": "/dev/ttyUSB0",
-...
+
+
 "auto_connect": false,
 ``` 
 No windows use a "COM4" ao invés de "/dev/ttyUSB0". Normalmante a COM4 é utilizada, mas verifique antes qual foi a porta reconhecida ao conectar o ESP na porta USB do seu computador. 
