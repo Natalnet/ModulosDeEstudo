@@ -28,14 +28,14 @@ Instalação do Esptool com pip:
 > pip install esptool 
 ```
 Pode usar o terminal PowerShell do windows. 
-Observação: No windows é necessário configurar a variável de ambiente PATH (Configurações > Configurações Avançadas do Sistema > Variáveis de Ambiente ... >  Variáveis de Usuário para ... > PATH > Editar ... > Novo ). Você adicionar o diretório onde o executável foi instalado. Essa informação é apresentada no final da mensagem de instalação. 
+Observação: No windows é necessário configurar a variável de ambiente PATH (Configurações > Configurações Avançadas do Sistema > Variáveis de Ambiente ... >  Variáveis de Usuário para ... > PATH > Editar ... > Novo ). Você deve adicionar o diretório onde o executável foi instalado. Essa informação é apresentada no final da mensagem de instalação. 
 
 
 ## Configurando o terminal MicroPython no VSCode 
 
 O plugin **Pymakr** permite usar o terminal micropython direto do NodeMCU.  
 
-Configure o endereço e a opção de autoconexão: 
+Configure o endereço e a opção de autoconexão (All commands > Pymakr > Global Settings ): 
 ```json 
 "address": "/dev/ttyUSB0",
 ...
