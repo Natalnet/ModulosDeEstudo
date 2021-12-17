@@ -28,6 +28,7 @@ Internet das coisas ...
 * [Interação simples com o robô do URA através de uma página web](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/MQTTBasicControl) 
 
 ## Referências 
+* [Página Oficial do BIPES](https://bipes.net.br/wp/)
 * [Microcontroladores e Aplicações / Sistemas Embarcados](https://rafaelaroca.wordpress.com/courses/microcontroladores/)
 * [Minicurso Internet das Coisas (BIPES)](https://www.youtube.com/watch?v=Uukyi7r1HRY)
 * [Blog Brenda Calado](https://brendacq.medium.com/)
