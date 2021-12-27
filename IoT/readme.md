@@ -17,6 +17,8 @@ Internet das coisas ...
 * [Sensor de Distância](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/UltrasonicSensor) 
 * [Robô URA v8](https://github.com/Natalnet/URA3D/blob/master/URA8.md) 
 * [Seguidor de Linha](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/LineFollower)
+* [Sensor de Luz, LDR](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/LDR)
+* [Sensor de temperatura de água, DS18B20](https://github.com/Natalnet/lib_ura_esp/tree/master/ESP32/DS18B20)
 
 ## Unidade II 
 ### Parte Teórica 
