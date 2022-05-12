@@ -17,6 +17,11 @@ Liberar o usuário para ter acessa as portas USB. Neste caso o usuário tem o no
 sudo usermod -a -G dialout ubuntu
 ```
 
+Deixando o comando esptool disponivel na linha de comando. Criando um link simbólico para o local onde foi instalado o binário do esptool.py. 
+```
+$ sudo ln -s /home/ubuntu/.local/bin/esptool.py  /usr/local/bin/esptool
+```
+
 Atualiza o sistema operacional ubuntu
 ```
 $ sudo apt dist-upgrade
