@@ -84,6 +84,13 @@ variavel_sel = base_de_dados["nome_da_coluna"] > n
 base_de_dados_sel = base_de_dados[varaivel_sel] 
 ``` 
 
+### Aplica uma função em uma coluna 
+```python
+def nome_funcao(x):
+   comandos 
+
+df["resultado"] = df["nome_da_coluna"].apply(nome_funcao) 
+``` 
 
 ## Introdução ao plot 
 
