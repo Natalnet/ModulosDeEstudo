@@ -2,7 +2,7 @@
 
 ## NodeJS
 
-## RestJS
+## NestJS
 Conhecimentos prévius importantes:  
 * Programação orientada a objetos 
 * Engenharia de Software 
@@ -13,6 +13,7 @@ Conceitos importantes
 * Serviço (_Service_) 
 * Controlador (_Controller_) 
 * Injeção de dependência
+* Guarda (_Guard_) 
 
 Sugestões de material para estudo: 
 * [Documentação da página oficial do NestJS](https://docs.nestjs.com/) 
