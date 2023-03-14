@@ -3,6 +3,8 @@
 ## HTML Básico 
 * [Guias Estelares - Rocketseat](https://app.rocketseat.com.br/discover/courses/track/guias-estelares)
 * [Maratona Discovery da RocketSeat](https://app.rocketseat.com.br/discover) 
+ou
+* [Curso completo e atual de HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) 
 
 ## ReactJS
 Conceitos importantes:
